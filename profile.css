@@ -1,0 +1,112 @@
+.text-main-color {
+    color: #0caa41;
+}
+
+.bg-main-color {
+    background-color: #0caa41;
+}
+.font-awesome {
+    font-family: FontAwesome;
+}
+
+.banner {
+    height: 100px;   
+    background-image: linear-gradient(to right, #0c7164 , #019d41);
+ 
+}
+
+.profile {
+    width: 70px;
+    height: 70px;
+    background-image: url("person_icon.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+ .img-0441-1-icon {
+    width: 100%;
+  }
+  .wrapper {
+    top: 63px;
+    width: 285px;
+    height: 289px;
+  }
+  .questions {
+    color: var(--color-black);
+  }
+  .profile-parent {
+    position: absolute;
+    top: 315.8px;
+    left: 258.79px;
+    width: 1159.43px;
+    height: 40.52px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 28px;
+  }
+
+  .rectangle-div {
+    position: absolute;
+    top: 365.85px;
+    left: 257.51px;
+    background-color: var(--color-coral);
+    width: 110.18px;
+    height: 7.15px;
+  }
+  .img-0441-1-parent {
+    position: absolute;
+    top: 120x;
+    left: 0;
+    width: 100%;
+  }
+  .username {
+    position: absolute;
+    top: 451px;
+    left: 25px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    width: 505px;
+    height: 61px;
+  }
+  .user.email {
+    margin: 0;
+  }
+  .user.email1 {
+    line-break: anywhere;
+    width: 100%;
+  }
+
+  .user.email {
+    position: absolute;
+    top: 504px;
+    left: 30px;
+    font-size: 25px;
+    font-weight: 200;
+    display: flex;
+    align-items: center;
+    width: 999px;
+    height: 100px;
+  }
+  .body{
+        position: relative;
+        background-color: var(--color-white);
+        width: 100%;
+        height: 1024px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 19.6px;
+        color: var(--color-black);
+        font-family: var(--font-inter);
+    
+  }
+  body {
+    margin: 0;
+    line-height: normal;
+  }
