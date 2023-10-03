@@ -5,3 +5,10 @@
         let scHeight = e.target.scrollHeight;
         textarea.style.height = `${scHeight}px`;
       });
+
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+            {pageLanguage: 'en'},
+            'google_translate_element'
+        );
+    }
